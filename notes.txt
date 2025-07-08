@@ -1,0 +1,5 @@
+Available APIs
+1. FastF1
+2. OpenF1
+3. jolpi.ca F1
+4. https://f1.tfeed.net/ -> live feed
